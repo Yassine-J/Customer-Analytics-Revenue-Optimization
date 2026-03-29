@@ -130,7 +130,7 @@ Le dashboard permet de :
 * Identifier les pays, produits et segments les plus performants
 
 📷 Aperçu :
-![Dashboard](images/churn_dashboard.png)
+![Dashboard](images/churn_dashboard.PNG)
 
 ---
 
