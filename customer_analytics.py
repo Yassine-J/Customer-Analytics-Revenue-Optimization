@@ -13,7 +13,7 @@ import pandas as pd
 # ---------------------------
 # 1. CHARGEMENT DU DATASET
 # ---------------------------
-df = pd.read_csv("online_retail.csv")
+df = pd.read_csv("data/online_retail.csv")
 
 print("Aperçu du dataset :")
 print(df.head())
